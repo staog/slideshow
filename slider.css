@@ -1,0 +1,27 @@
+#monitor {
+  width: auto;
+  height: 800px;
+  position: relative;
+  margin: auto;
+}
+#display {
+  position: absolute;
+  width: 807px;
+  height: 454px;
+  background-color: black;
+  top: 74px;
+  left: 133px;
+  border: 1px solid #222;
+  border-radius: 5px;
+}
+#display > img {
+  width: 807px;
+  height: 454px;
+  border-radius: 3px;
+}
+#para {
+  position: absolute;
+  top: 8px;
+  right: 50px;
+  font-size: 18px;
+}
