@@ -1,2 +1,2 @@
 # slideshow
-How to make a slideshow on your web page.
+How to make responsive slideshow on your web page.
