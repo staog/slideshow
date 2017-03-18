@@ -1,4 +1,4 @@
-#Responsive slideshow
+# Responsive slideshow
 
 Resize browser window to see how it scales.
 
