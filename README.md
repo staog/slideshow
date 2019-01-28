@@ -1,5 +1,13 @@
 # Responsive slideshow
 
-Resize browser window to see how it scales.
+Example how to make simple slideshow using JS.
 
-[GitHub Page](https://staog.github.io/slideshow/) of this project.
+You can pause slides, and then play them again.
+
+Everything is responsive, so you can resize browser window to see how it scales.
+
+===============================================================
+
+[DEMO](https://staog.github.io/slideshow/)
+
+===============================================================
